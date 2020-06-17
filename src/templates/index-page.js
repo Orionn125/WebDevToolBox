@@ -84,6 +84,12 @@ export const IndexPageTemplate = ({
                       {heading}
                     </h3>
                     <p>{description}</p>
+                    <iframe src="https://player.vimeo.com/video/182592195" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/182592195">Vimeo Business: how to create amazing videos</a> from <a href="https://vimeo.com/staff">Vimeo Staff</a> on <a href="https://vimeo.com">Vimeo</a>.</p>                    
+
+                    <iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe> 
                   </div>
                 </div>
                 <Features gridItems={intro.blurbs} />
